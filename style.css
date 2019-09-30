@@ -9,11 +9,12 @@
     display: grid;
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 4px;
     align-items: center;
     justify-content: center;
+    border-radius: 20px;
 }
 body
 {
-    background-color: rgb(107, 169, 240);
+    background-color: white;
 }
